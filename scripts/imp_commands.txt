@@ -1,0 +1,8 @@
+  wget -q -O - http://multipath-tcp.org/mptcp.gpg.key | sudo apt-key add -
+gvim /etc/apt/sources.list.d/mptcp.list
+Add 
+
+
+To check OS release : 
+cat /etc/os-release
+
