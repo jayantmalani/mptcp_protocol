@@ -1,0 +1,12 @@
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+TX wlan0: 0 kB/s RX wlan0: 0 kB/s

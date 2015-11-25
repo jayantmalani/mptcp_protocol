@@ -1,667 +1,653 @@
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 21 kB/s RX wlan0: 182 kB/s
-TX wlan0: 46 kB/s RX wlan0: 460 kB/s
-TX wlan0: 46 kB/s RX wlan0: 597 kB/s
-TX wlan0: 32 kB/s RX wlan0: 572 kB/s
-TX wlan0: 25 kB/s RX wlan0: 639 kB/s
-TX wlan0: 46 kB/s RX wlan0: 583 kB/s
-TX wlan0: 77 kB/s RX wlan0: 1013 kB/s
-TX wlan0: 30 kB/s RX wlan0: 424 kB/s
-TX wlan0: 48 kB/s RX wlan0: 636 kB/s
-TX wlan0: 61 kB/s RX wlan0: 822 kB/s
-TX wlan0: 50 kB/s RX wlan0: 665 kB/s
-TX wlan0: 39 kB/s RX wlan0: 541 kB/s
-TX wlan0: 49 kB/s RX wlan0: 662 kB/s
-TX wlan0: 48 kB/s RX wlan0: 646 kB/s
-TX wlan0: 39 kB/s RX wlan0: 537 kB/s
-TX wlan0: 60 kB/s RX wlan0: 756 kB/s
-TX wlan0: 50 kB/s RX wlan0: 668 kB/s
-TX wlan0: 67 kB/s RX wlan0: 820 kB/s
-TX wlan0: 12 kB/s RX wlan0: 148 kB/s
-TX wlan0: 1 kB/s RX wlan0: 13 kB/s
-TX wlan0: 1 kB/s RX wlan0: 13 kB/s
-TX wlan0: 33 kB/s RX wlan0: 454 kB/s
-TX wlan0: 50 kB/s RX wlan0: 649 kB/s
-TX wlan0: 36 kB/s RX wlan0: 492 kB/s
-TX wlan0: 60 kB/s RX wlan0: 690 kB/s
-TX wlan0: 58 kB/s RX wlan0: 661 kB/s
-TX wlan0: 44 kB/s RX wlan0: 551 kB/s
-TX wlan0: 31 kB/s RX wlan0: 473 kB/s
-TX wlan0: 42 kB/s RX wlan0: 559 kB/s
-TX wlan0: 66 kB/s RX wlan0: 855 kB/s
-TX wlan0: 49 kB/s RX wlan0: 612 kB/s
-TX wlan0: 49 kB/s RX wlan0: 633 kB/s
-TX wlan0: 80 kB/s RX wlan0: 1018 kB/s
-TX wlan0: 65 kB/s RX wlan0: 849 kB/s
-TX wlan0: 63 kB/s RX wlan0: 827 kB/s
-TX wlan0: 20 kB/s RX wlan0: 267 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 3 kB/s RX wlan0: 50 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 47 kB/s RX wlan0: 670 kB/s
-TX wlan0: 67 kB/s RX wlan0: 886 kB/s
-TX wlan0: 72 kB/s RX wlan0: 961 kB/s
-TX wlan0: 85 kB/s RX wlan0: 1126 kB/s
-TX wlan0: 59 kB/s RX wlan0: 784 kB/s
-TX wlan0: 68 kB/s RX wlan0: 890 kB/s
-TX wlan0: 33 kB/s RX wlan0: 445 kB/s
-TX wlan0: 35 kB/s RX wlan0: 455 kB/s
-TX wlan0: 23 kB/s RX wlan0: 307 kB/s
-TX wlan0: 51 kB/s RX wlan0: 677 kB/s
-TX wlan0: 42 kB/s RX wlan0: 554 kB/s
-TX wlan0: 57 kB/s RX wlan0: 735 kB/s
-TX wlan0: 78 kB/s RX wlan0: 992 kB/s
-TX wlan0: 64 kB/s RX wlan0: 842 kB/s
-TX wlan0: 81 kB/s RX wlan0: 997 kB/s
-TX wlan0: 54 kB/s RX wlan0: 727 kB/s
-TX wlan0: 67 kB/s RX wlan0: 884 kB/s
-TX wlan0: 36 kB/s RX wlan0: 457 kB/s
-TX wlan0: 68 kB/s RX wlan0: 891 kB/s
-TX wlan0: 70 kB/s RX wlan0: 921 kB/s
-TX wlan0: 51 kB/s RX wlan0: 678 kB/s
-TX wlan0: 66 kB/s RX wlan0: 885 kB/s
-TX wlan0: 88 kB/s RX wlan0: 1154 kB/s
-TX wlan0: 66 kB/s RX wlan0: 819 kB/s
-TX wlan0: 79 kB/s RX wlan0: 1043 kB/s
-TX wlan0: 79 kB/s RX wlan0: 996 kB/s
-TX wlan0: 65 kB/s RX wlan0: 886 kB/s
-TX wlan0: 74 kB/s RX wlan0: 936 kB/s
-TX wlan0: 45 kB/s RX wlan0: 685 kB/s
-TX wlan0: 68 kB/s RX wlan0: 717 kB/s
-TX wlan0: 67 kB/s RX wlan0: 879 kB/s
-TX wlan0: 47 kB/s RX wlan0: 680 kB/s
-TX wlan0: 74 kB/s RX wlan0: 981 kB/s
-TX wlan0: 62 kB/s RX wlan0: 791 kB/s
-TX wlan0: 43 kB/s RX wlan0: 541 kB/s
-TX wlan0: 59 kB/s RX wlan0: 785 kB/s
-TX wlan0: 45 kB/s RX wlan0: 582 kB/s
-TX wlan0: 25 kB/s RX wlan0: 319 kB/s
-TX wlan0: 33 kB/s RX wlan0: 454 kB/s
-TX wlan0: 27 kB/s RX wlan0: 352 kB/s
-TX wlan0: 41 kB/s RX wlan0: 533 kB/s
-TX wlan0: 28 kB/s RX wlan0: 349 kB/s
-TX wlan0: 42 kB/s RX wlan0: 538 kB/s
-TX wlan0: 41 kB/s RX wlan0: 515 kB/s
-TX wlan0: 59 kB/s RX wlan0: 757 kB/s
-TX wlan0: 24 kB/s RX wlan0: 307 kB/s
-TX wlan0: 36 kB/s RX wlan0: 465 kB/s
-TX wlan0: 26 kB/s RX wlan0: 346 kB/s
-TX wlan0: 48 kB/s RX wlan0: 668 kB/s
-TX wlan0: 28 kB/s RX wlan0: 367 kB/s
-TX wlan0: 24 kB/s RX wlan0: 339 kB/s
-TX wlan0: 31 kB/s RX wlan0: 413 kB/s
-TX wlan0: 42 kB/s RX wlan0: 527 kB/s
-TX wlan0: 51 kB/s RX wlan0: 768 kB/s
-TX wlan0: 58 kB/s RX wlan0: 780 kB/s
-TX wlan0: 61 kB/s RX wlan0: 822 kB/s
-TX wlan0: 73 kB/s RX wlan0: 925 kB/s
-TX wlan0: 40 kB/s RX wlan0: 559 kB/s
-TX wlan0: 82 kB/s RX wlan0: 1090 kB/s
-TX wlan0: 46 kB/s RX wlan0: 616 kB/s
-TX wlan0: 68 kB/s RX wlan0: 903 kB/s
-TX wlan0: 52 kB/s RX wlan0: 679 kB/s
-TX wlan0: 74 kB/s RX wlan0: 1034 kB/s
-TX wlan0: 56 kB/s RX wlan0: 745 kB/s
-TX wlan0: 35 kB/s RX wlan0: 468 kB/s
-TX wlan0: 53 kB/s RX wlan0: 684 kB/s
-TX wlan0: 71 kB/s RX wlan0: 953 kB/s
-TX wlan0: 50 kB/s RX wlan0: 651 kB/s
-TX wlan0: 35 kB/s RX wlan0: 482 kB/s
-TX wlan0: 80 kB/s RX wlan0: 1068 kB/s
-TX wlan0: 28 kB/s RX wlan0: 391 kB/s
-TX wlan0: 49 kB/s RX wlan0: 636 kB/s
-TX wlan0: 55 kB/s RX wlan0: 743 kB/s
-TX wlan0: 24 kB/s RX wlan0: 337 kB/s
-TX wlan0: 28 kB/s RX wlan0: 375 kB/s
-TX wlan0: 50 kB/s RX wlan0: 663 kB/s
-TX wlan0: 50 kB/s RX wlan0: 662 kB/s
-TX wlan0: 47 kB/s RX wlan0: 600 kB/s
-TX wlan0: 37 kB/s RX wlan0: 490 kB/s
-TX wlan0: 59 kB/s RX wlan0: 770 kB/s
-TX wlan0: 44 kB/s RX wlan0: 523 kB/s
-TX wlan0: 60 kB/s RX wlan0: 785 kB/s
-TX wlan0: 44 kB/s RX wlan0: 585 kB/s
-TX wlan0: 49 kB/s RX wlan0: 616 kB/s
-TX wlan0: 54 kB/s RX wlan0: 670 kB/s
-TX wlan0: 90 kB/s RX wlan0: 1186 kB/s
-TX wlan0: 57 kB/s RX wlan0: 841 kB/s
-TX wlan0: 87 kB/s RX wlan0: 1128 kB/s
-TX wlan0: 72 kB/s RX wlan0: 917 kB/s
-TX wlan0: 75 kB/s RX wlan0: 983 kB/s
-TX wlan0: 47 kB/s RX wlan0: 628 kB/s
-TX wlan0: 58 kB/s RX wlan0: 747 kB/s
-TX wlan0: 53 kB/s RX wlan0: 697 kB/s
-TX wlan0: 52 kB/s RX wlan0: 683 kB/s
-TX wlan0: 60 kB/s RX wlan0: 871 kB/s
-TX wlan0: 65 kB/s RX wlan0: 917 kB/s
-TX wlan0: 80 kB/s RX wlan0: 1083 kB/s
-TX wlan0: 88 kB/s RX wlan0: 1149 kB/s
-TX wlan0: 52 kB/s RX wlan0: 675 kB/s
-TX wlan0: 45 kB/s RX wlan0: 602 kB/s
-TX wlan0: 49 kB/s RX wlan0: 654 kB/s
-TX wlan0: 65 kB/s RX wlan0: 866 kB/s
-TX wlan0: 68 kB/s RX wlan0: 892 kB/s
-TX wlan0: 41 kB/s RX wlan0: 551 kB/s
-TX wlan0: 41 kB/s RX wlan0: 539 kB/s
-TX wlan0: 51 kB/s RX wlan0: 665 kB/s
-TX wlan0: 46 kB/s RX wlan0: 590 kB/s
-TX wlan0: 61 kB/s RX wlan0: 807 kB/s
-TX wlan0: 63 kB/s RX wlan0: 825 kB/s
-TX wlan0: 64 kB/s RX wlan0: 824 kB/s
-TX wlan0: 43 kB/s RX wlan0: 568 kB/s
-TX wlan0: 56 kB/s RX wlan0: 718 kB/s
-TX wlan0: 60 kB/s RX wlan0: 734 kB/s
-TX wlan0: 58 kB/s RX wlan0: 795 kB/s
-TX wlan0: 50 kB/s RX wlan0: 654 kB/s
-TX wlan0: 65 kB/s RX wlan0: 855 kB/s
-TX wlan0: 61 kB/s RX wlan0: 820 kB/s
-TX wlan0: 69 kB/s RX wlan0: 909 kB/s
-TX wlan0: 53 kB/s RX wlan0: 709 kB/s
-TX wlan0: 73 kB/s RX wlan0: 959 kB/s
-TX wlan0: 69 kB/s RX wlan0: 917 kB/s
-TX wlan0: 66 kB/s RX wlan0: 868 kB/s
-TX wlan0: 63 kB/s RX wlan0: 819 kB/s
-TX wlan0: 70 kB/s RX wlan0: 968 kB/s
-TX wlan0: 44 kB/s RX wlan0: 574 kB/s
-TX wlan0: 32 kB/s RX wlan0: 445 kB/s
-TX wlan0: 41 kB/s RX wlan0: 542 kB/s
-TX wlan0: 42 kB/s RX wlan0: 541 kB/s
-TX wlan0: 49 kB/s RX wlan0: 656 kB/s
-TX wlan0: 51 kB/s RX wlan0: 649 kB/s
-TX wlan0: 41 kB/s RX wlan0: 556 kB/s
-TX wlan0: 24 kB/s RX wlan0: 325 kB/s
-TX wlan0: 60 kB/s RX wlan0: 777 kB/s
-TX wlan0: 60 kB/s RX wlan0: 768 kB/s
-TX wlan0: 83 kB/s RX wlan0: 1124 kB/s
-TX wlan0: 59 kB/s RX wlan0: 794 kB/s
-TX wlan0: 63 kB/s RX wlan0: 842 kB/s
-TX wlan0: 79 kB/s RX wlan0: 1023 kB/s
-TX wlan0: 53 kB/s RX wlan0: 707 kB/s
-TX wlan0: 78 kB/s RX wlan0: 1007 kB/s
-TX wlan0: 82 kB/s RX wlan0: 1107 kB/s
-TX wlan0: 52 kB/s RX wlan0: 695 kB/s
-TX wlan0: 76 kB/s RX wlan0: 1050 kB/s
-TX wlan0: 84 kB/s RX wlan0: 1100 kB/s
-TX wlan0: 65 kB/s RX wlan0: 912 kB/s
-TX wlan0: 61 kB/s RX wlan0: 781 kB/s
-TX wlan0: 70 kB/s RX wlan0: 905 kB/s
-TX wlan0: 50 kB/s RX wlan0: 686 kB/s
-TX wlan0: 40 kB/s RX wlan0: 529 kB/s
-TX wlan0: 58 kB/s RX wlan0: 779 kB/s
-TX wlan0: 63 kB/s RX wlan0: 789 kB/s
-TX wlan0: 67 kB/s RX wlan0: 851 kB/s
-TX wlan0: 81 kB/s RX wlan0: 1067 kB/s
-TX wlan0: 55 kB/s RX wlan0: 755 kB/s
-TX wlan0: 40 kB/s RX wlan0: 512 kB/s
-TX wlan0: 26 kB/s RX wlan0: 355 kB/s
-TX wlan0: 15 kB/s RX wlan0: 288 kB/s
-TX wlan0: 0 kB/s RX wlan0: 338 kB/s
-TX wlan0: 0 kB/s RX wlan0: 133 kB/s
-TX wlan0: 17 kB/s RX wlan0: 780 kB/s
-TX wlan0: 31 kB/s RX wlan0: 440 kB/s
-TX wlan0: 40 kB/s RX wlan0: 525 kB/s
-TX wlan0: 17 kB/s RX wlan0: 223 kB/s
-TX wlan0: 45 kB/s RX wlan0: 596 kB/s
-TX wlan0: 47 kB/s RX wlan0: 662 kB/s
-TX wlan0: 31 kB/s RX wlan0: 397 kB/s
-TX wlan0: 58 kB/s RX wlan0: 800 kB/s
-TX wlan0: 48 kB/s RX wlan0: 630 kB/s
-TX wlan0: 33 kB/s RX wlan0: 444 kB/s
-TX wlan0: 66 kB/s RX wlan0: 891 kB/s
-TX wlan0: 35 kB/s RX wlan0: 462 kB/s
-TX wlan0: 71 kB/s RX wlan0: 949 kB/s
-TX wlan0: 39 kB/s RX wlan0: 502 kB/s
-TX wlan0: 60 kB/s RX wlan0: 806 kB/s
-TX wlan0: 58 kB/s RX wlan0: 731 kB/s
-TX wlan0: 51 kB/s RX wlan0: 687 kB/s
-TX wlan0: 51 kB/s RX wlan0: 673 kB/s
-TX wlan0: 46 kB/s RX wlan0: 608 kB/s
-TX wlan0: 66 kB/s RX wlan0: 834 kB/s
-TX wlan0: 72 kB/s RX wlan0: 988 kB/s
-TX wlan0: 70 kB/s RX wlan0: 921 kB/s
-TX wlan0: 44 kB/s RX wlan0: 522 kB/s
-TX wlan0: 61 kB/s RX wlan0: 786 kB/s
-TX wlan0: 32 kB/s RX wlan0: 431 kB/s
-TX wlan0: 42 kB/s RX wlan0: 549 kB/s
-TX wlan0: 5 kB/s RX wlan0: 74 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 40 kB/s RX wlan0: 542 kB/s
-TX wlan0: 48 kB/s RX wlan0: 639 kB/s
-TX wlan0: 28 kB/s RX wlan0: 380 kB/s
-TX wlan0: 15 kB/s RX wlan0: 202 kB/s
-TX wlan0: 1 kB/s RX wlan0: 21 kB/s
-TX wlan0: 71 kB/s RX wlan0: 938 kB/s
-TX wlan0: 63 kB/s RX wlan0: 809 kB/s
-TX wlan0: 57 kB/s RX wlan0: 743 kB/s
-TX wlan0: 74 kB/s RX wlan0: 1017 kB/s
-TX wlan0: 42 kB/s RX wlan0: 563 kB/s
-TX wlan0: 40 kB/s RX wlan0: 538 kB/s
-TX wlan0: 24 kB/s RX wlan0: 320 kB/s
-TX wlan0: 62 kB/s RX wlan0: 828 kB/s
-TX wlan0: 32 kB/s RX wlan0: 424 kB/s
-TX wlan0: 41 kB/s RX wlan0: 540 kB/s
-TX wlan0: 34 kB/s RX wlan0: 468 kB/s
-TX wlan0: 42 kB/s RX wlan0: 557 kB/s
-TX wlan0: 59 kB/s RX wlan0: 759 kB/s
-TX wlan0: 43 kB/s RX wlan0: 633 kB/s
-TX wlan0: 52 kB/s RX wlan0: 680 kB/s
-TX wlan0: 35 kB/s RX wlan0: 479 kB/s
-TX wlan0: 48 kB/s RX wlan0: 591 kB/s
-TX wlan0: 43 kB/s RX wlan0: 540 kB/s
-TX wlan0: 41 kB/s RX wlan0: 550 kB/s
-TX wlan0: 43 kB/s RX wlan0: 570 kB/s
-TX wlan0: 63 kB/s RX wlan0: 800 kB/s
-TX wlan0: 42 kB/s RX wlan0: 572 kB/s
-TX wlan0: 40 kB/s RX wlan0: 528 kB/s
-TX wlan0: 48 kB/s RX wlan0: 702 kB/s
-TX wlan0: 46 kB/s RX wlan0: 627 kB/s
-TX wlan0: 19 kB/s RX wlan0: 270 kB/s
-TX wlan0: 45 kB/s RX wlan0: 589 kB/s
-TX wlan0: 67 kB/s RX wlan0: 895 kB/s
-TX wlan0: 78 kB/s RX wlan0: 1018 kB/s
-TX wlan0: 66 kB/s RX wlan0: 877 kB/s
-TX wlan0: 57 kB/s RX wlan0: 761 kB/s
-TX wlan0: 55 kB/s RX wlan0: 741 kB/s
-TX wlan0: 74 kB/s RX wlan0: 948 kB/s
-TX wlan0: 33 kB/s RX wlan0: 422 kB/s
-TX wlan0: 44 kB/s RX wlan0: 582 kB/s
-TX wlan0: 42 kB/s RX wlan0: 546 kB/s
-TX wlan0: 23 kB/s RX wlan0: 305 kB/s
-TX wlan0: 1 kB/s RX wlan0: 14 kB/s
-TX wlan0: 27 kB/s RX wlan0: 303 kB/s
-TX wlan0: 65 kB/s RX wlan0: 859 kB/s
-TX wlan0: 62 kB/s RX wlan0: 830 kB/s
-TX wlan0: 71 kB/s RX wlan0: 937 kB/s
-TX wlan0: 63 kB/s RX wlan0: 827 kB/s
-TX wlan0: 53 kB/s RX wlan0: 716 kB/s
-TX wlan0: 46 kB/s RX wlan0: 603 kB/s
-TX wlan0: 46 kB/s RX wlan0: 593 kB/s
-TX wlan0: 74 kB/s RX wlan0: 897 kB/s
-TX wlan0: 60 kB/s RX wlan0: 750 kB/s
-TX wlan0: 74 kB/s RX wlan0: 946 kB/s
-TX wlan0: 48 kB/s RX wlan0: 629 kB/s
-TX wlan0: 36 kB/s RX wlan0: 463 kB/s
-TX wlan0: 42 kB/s RX wlan0: 560 kB/s
-TX wlan0: 34 kB/s RX wlan0: 500 kB/s
-TX wlan0: 40 kB/s RX wlan0: 514 kB/s
-TX wlan0: 62 kB/s RX wlan0: 817 kB/s
-TX wlan0: 60 kB/s RX wlan0: 774 kB/s
-TX wlan0: 56 kB/s RX wlan0: 749 kB/s
-TX wlan0: 54 kB/s RX wlan0: 717 kB/s
-TX wlan0: 51 kB/s RX wlan0: 673 kB/s
-TX wlan0: 59 kB/s RX wlan0: 764 kB/s
-TX wlan0: 24 kB/s RX wlan0: 359 kB/s
-TX wlan0: 57 kB/s RX wlan0: 765 kB/s
-TX wlan0: 44 kB/s RX wlan0: 581 kB/s
-TX wlan0: 50 kB/s RX wlan0: 646 kB/s
-TX wlan0: 38 kB/s RX wlan0: 520 kB/s
-TX wlan0: 42 kB/s RX wlan0: 538 kB/s
-TX wlan0: 41 kB/s RX wlan0: 537 kB/s
-TX wlan0: 52 kB/s RX wlan0: 645 kB/s
-TX wlan0: 48 kB/s RX wlan0: 640 kB/s
-TX wlan0: 40 kB/s RX wlan0: 523 kB/s
-TX wlan0: 25 kB/s RX wlan0: 327 kB/s
-TX wlan0: 0 kB/s RX wlan0: 10 kB/s
-TX wlan0: 30 kB/s RX wlan0: 465 kB/s
-TX wlan0: 61 kB/s RX wlan0: 806 kB/s
-TX wlan0: 34 kB/s RX wlan0: 462 kB/s
-TX wlan0: 80 kB/s RX wlan0: 1048 kB/s
-TX wlan0: 43 kB/s RX wlan0: 545 kB/s
-TX wlan0: 44 kB/s RX wlan0: 577 kB/s
-TX wlan0: 29 kB/s RX wlan0: 400 kB/s
-TX wlan0: 12 kB/s RX wlan0: 155 kB/s
-TX wlan0: 37 kB/s RX wlan0: 504 kB/s
-TX wlan0: 42 kB/s RX wlan0: 532 kB/s
-TX wlan0: 31 kB/s RX wlan0: 425 kB/s
-TX wlan0: 28 kB/s RX wlan0: 329 kB/s
-TX wlan0: 35 kB/s RX wlan0: 310 kB/s
-TX wlan0: 58 kB/s RX wlan0: 744 kB/s
-TX wlan0: 30 kB/s RX wlan0: 394 kB/s
-TX wlan0: 39 kB/s RX wlan0: 481 kB/s
-TX wlan0: 58 kB/s RX wlan0: 793 kB/s
-TX wlan0: 57 kB/s RX wlan0: 749 kB/s
-TX wlan0: 30 kB/s RX wlan0: 387 kB/s
-TX wlan0: 19 kB/s RX wlan0: 268 kB/s
-TX wlan0: 26 kB/s RX wlan0: 311 kB/s
-TX wlan0: 57 kB/s RX wlan0: 785 kB/s
-TX wlan0: 26 kB/s RX wlan0: 359 kB/s
-TX wlan0: 34 kB/s RX wlan0: 428 kB/s
-TX wlan0: 37 kB/s RX wlan0: 484 kB/s
-TX wlan0: 47 kB/s RX wlan0: 598 kB/s
-TX wlan0: 41 kB/s RX wlan0: 526 kB/s
-TX wlan0: 31 kB/s RX wlan0: 408 kB/s
-TX wlan0: 46 kB/s RX wlan0: 588 kB/s
-TX wlan0: 53 kB/s RX wlan0: 765 kB/s
-TX wlan0: 36 kB/s RX wlan0: 481 kB/s
-TX wlan0: 29 kB/s RX wlan0: 374 kB/s
-TX wlan0: 43 kB/s RX wlan0: 572 kB/s
-TX wlan0: 45 kB/s RX wlan0: 559 kB/s
-TX wlan0: 50 kB/s RX wlan0: 661 kB/s
-TX wlan0: 54 kB/s RX wlan0: 743 kB/s
-TX wlan0: 20 kB/s RX wlan0: 265 kB/s
-TX wlan0: 39 kB/s RX wlan0: 603 kB/s
-TX wlan0: 42 kB/s RX wlan0: 572 kB/s
-TX wlan0: 44 kB/s RX wlan0: 574 kB/s
-TX wlan0: 35 kB/s RX wlan0: 473 kB/s
-TX wlan0: 33 kB/s RX wlan0: 440 kB/s
-TX wlan0: 40 kB/s RX wlan0: 531 kB/s
-TX wlan0: 36 kB/s RX wlan0: 487 kB/s
-TX wlan0: 44 kB/s RX wlan0: 590 kB/s
-TX wlan0: 26 kB/s RX wlan0: 350 kB/s
-TX wlan0: 46 kB/s RX wlan0: 622 kB/s
-TX wlan0: 38 kB/s RX wlan0: 502 kB/s
-TX wlan0: 37 kB/s RX wlan0: 487 kB/s
-TX wlan0: 52 kB/s RX wlan0: 730 kB/s
-TX wlan0: 37 kB/s RX wlan0: 499 kB/s
-TX wlan0: 21 kB/s RX wlan0: 289 kB/s
-TX wlan0: 74 kB/s RX wlan0: 975 kB/s
-TX wlan0: 44 kB/s RX wlan0: 616 kB/s
-TX wlan0: 45 kB/s RX wlan0: 598 kB/s
-TX wlan0: 43 kB/s RX wlan0: 569 kB/s
-TX wlan0: 84 kB/s RX wlan0: 1057 kB/s
-TX wlan0: 69 kB/s RX wlan0: 932 kB/s
-TX wlan0: 57 kB/s RX wlan0: 735 kB/s
-TX wlan0: 36 kB/s RX wlan0: 452 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 6 kB/s RX wlan0: 188 kB/s
-TX wlan0: 25 kB/s RX wlan0: 444 kB/s
-TX wlan0: 16 kB/s RX wlan0: 212 kB/s
-TX wlan0: 1 kB/s RX wlan0: 24 kB/s
-TX wlan0: 19 kB/s RX wlan0: 246 kB/s
-TX wlan0: 39 kB/s RX wlan0: 512 kB/s
-TX wlan0: 32 kB/s RX wlan0: 418 kB/s
-TX wlan0: 71 kB/s RX wlan0: 903 kB/s
-TX wlan0: 44 kB/s RX wlan0: 589 kB/s
-TX wlan0: 58 kB/s RX wlan0: 811 kB/s
-TX wlan0: 47 kB/s RX wlan0: 624 kB/s
-TX wlan0: 67 kB/s RX wlan0: 881 kB/s
-TX wlan0: 34 kB/s RX wlan0: 454 kB/s
-TX wlan0: 61 kB/s RX wlan0: 817 kB/s
-TX wlan0: 31 kB/s RX wlan0: 384 kB/s
-TX wlan0: 28 kB/s RX wlan0: 372 kB/s
-TX wlan0: 39 kB/s RX wlan0: 472 kB/s
-TX wlan0: 54 kB/s RX wlan0: 698 kB/s
-TX wlan0: 59 kB/s RX wlan0: 757 kB/s
-TX wlan0: 53 kB/s RX wlan0: 765 kB/s
-TX wlan0: 61 kB/s RX wlan0: 815 kB/s
-TX wlan0: 27 kB/s RX wlan0: 362 kB/s
-TX wlan0: 55 kB/s RX wlan0: 715 kB/s
-TX wlan0: 30 kB/s RX wlan0: 406 kB/s
-TX wlan0: 39 kB/s RX wlan0: 542 kB/s
-TX wlan0: 57 kB/s RX wlan0: 750 kB/s
-TX wlan0: 40 kB/s RX wlan0: 540 kB/s
-TX wlan0: 47 kB/s RX wlan0: 708 kB/s
-TX wlan0: 83 kB/s RX wlan0: 899 kB/s
-TX wlan0: 48 kB/s RX wlan0: 614 kB/s
-TX wlan0: 58 kB/s RX wlan0: 770 kB/s
-TX wlan0: 57 kB/s RX wlan0: 823 kB/s
-TX wlan0: 63 kB/s RX wlan0: 839 kB/s
-TX wlan0: 45 kB/s RX wlan0: 601 kB/s
-TX wlan0: 41 kB/s RX wlan0: 548 kB/s
-TX wlan0: 56 kB/s RX wlan0: 747 kB/s
-TX wlan0: 16 kB/s RX wlan0: 207 kB/s
-TX wlan0: 37 kB/s RX wlan0: 487 kB/s
-TX wlan0: 53 kB/s RX wlan0: 726 kB/s
-TX wlan0: 49 kB/s RX wlan0: 644 kB/s
-TX wlan0: 62 kB/s RX wlan0: 836 kB/s
-TX wlan0: 32 kB/s RX wlan0: 400 kB/s
-TX wlan0: 67 kB/s RX wlan0: 890 kB/s
-TX wlan0: 39 kB/s RX wlan0: 534 kB/s
-TX wlan0: 46 kB/s RX wlan0: 597 kB/s
-TX wlan0: 38 kB/s RX wlan0: 539 kB/s
-TX wlan0: 37 kB/s RX wlan0: 484 kB/s
-TX wlan0: 56 kB/s RX wlan0: 710 kB/s
-TX wlan0: 82 kB/s RX wlan0: 1025 kB/s
-TX wlan0: 61 kB/s RX wlan0: 792 kB/s
-TX wlan0: 46 kB/s RX wlan0: 619 kB/s
-TX wlan0: 29 kB/s RX wlan0: 388 kB/s
-TX wlan0: 22 kB/s RX wlan0: 306 kB/s
-TX wlan0: 34 kB/s RX wlan0: 449 kB/s
-TX wlan0: 28 kB/s RX wlan0: 367 kB/s
-TX wlan0: 26 kB/s RX wlan0: 343 kB/s
-TX wlan0: 23 kB/s RX wlan0: 299 kB/s
-TX wlan0: 49 kB/s RX wlan0: 644 kB/s
-TX wlan0: 49 kB/s RX wlan0: 641 kB/s
-TX wlan0: 47 kB/s RX wlan0: 631 kB/s
-TX wlan0: 54 kB/s RX wlan0: 739 kB/s
-TX wlan0: 48 kB/s RX wlan0: 634 kB/s
-TX wlan0: 50 kB/s RX wlan0: 682 kB/s
-TX wlan0: 52 kB/s RX wlan0: 676 kB/s
-TX wlan0: 30 kB/s RX wlan0: 400 kB/s
-TX wlan0: 47 kB/s RX wlan0: 610 kB/s
-TX wlan0: 60 kB/s RX wlan0: 791 kB/s
-TX wlan0: 51 kB/s RX wlan0: 728 kB/s
-TX wlan0: 44 kB/s RX wlan0: 582 kB/s
-TX wlan0: 30 kB/s RX wlan0: 381 kB/s
-TX wlan0: 37 kB/s RX wlan0: 499 kB/s
-TX wlan0: 70 kB/s RX wlan0: 897 kB/s
-TX wlan0: 62 kB/s RX wlan0: 802 kB/s
-TX wlan0: 45 kB/s RX wlan0: 588 kB/s
-TX wlan0: 21 kB/s RX wlan0: 272 kB/s
-TX wlan0: 36 kB/s RX wlan0: 473 kB/s
-TX wlan0: 47 kB/s RX wlan0: 598 kB/s
-TX wlan0: 45 kB/s RX wlan0: 593 kB/s
-TX wlan0: 50 kB/s RX wlan0: 666 kB/s
-TX wlan0: 51 kB/s RX wlan0: 669 kB/s
-TX wlan0: 65 kB/s RX wlan0: 850 kB/s
-TX wlan0: 53 kB/s RX wlan0: 677 kB/s
-TX wlan0: 37 kB/s RX wlan0: 505 kB/s
-TX wlan0: 55 kB/s RX wlan0: 723 kB/s
-TX wlan0: 48 kB/s RX wlan0: 625 kB/s
-TX wlan0: 13 kB/s RX wlan0: 159 kB/s
-TX wlan0: 65 kB/s RX wlan0: 825 kB/s
-TX wlan0: 54 kB/s RX wlan0: 733 kB/s
-TX wlan0: 51 kB/s RX wlan0: 665 kB/s
-TX wlan0: 43 kB/s RX wlan0: 619 kB/s
-TX wlan0: 39 kB/s RX wlan0: 528 kB/s
-TX wlan0: 38 kB/s RX wlan0: 516 kB/s
-TX wlan0: 22 kB/s RX wlan0: 306 kB/s
-TX wlan0: 31 kB/s RX wlan0: 380 kB/s
-TX wlan0: 51 kB/s RX wlan0: 686 kB/s
-TX wlan0: 49 kB/s RX wlan0: 660 kB/s
-TX wlan0: 36 kB/s RX wlan0: 399 kB/s
-TX wlan0: 9 kB/s RX wlan0: 111 kB/s
-TX wlan0: 0 kB/s RX wlan0: 4 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 15 kB/s
-TX wlan0: 34 kB/s RX wlan0: 550 kB/s
-TX wlan0: 46 kB/s RX wlan0: 615 kB/s
-TX wlan0: 48 kB/s RX wlan0: 646 kB/s
-TX wlan0: 37 kB/s RX wlan0: 502 kB/s
-TX wlan0: 67 kB/s RX wlan0: 906 kB/s
-TX wlan0: 31 kB/s RX wlan0: 437 kB/s
-TX wlan0: 42 kB/s RX wlan0: 553 kB/s
-TX wlan0: 43 kB/s RX wlan0: 570 kB/s
-TX wlan0: 37 kB/s RX wlan0: 465 kB/s
-TX wlan0: 29 kB/s RX wlan0: 463 kB/s
-TX wlan0: 25 kB/s RX wlan0: 558 kB/s
-TX wlan0: 17 kB/s RX wlan0: 309 kB/s
-TX wlan0: 12 kB/s RX wlan0: 159 kB/s
-TX wlan0: 56 kB/s RX wlan0: 721 kB/s
-TX wlan0: 48 kB/s RX wlan0: 615 kB/s
-TX wlan0: 32 kB/s RX wlan0: 486 kB/s
-TX wlan0: 41 kB/s RX wlan0: 538 kB/s
-TX wlan0: 45 kB/s RX wlan0: 617 kB/s
-TX wlan0: 54 kB/s RX wlan0: 710 kB/s
-TX wlan0: 38 kB/s RX wlan0: 514 kB/s
-TX wlan0: 59 kB/s RX wlan0: 1097 kB/s
-TX wlan0: 61 kB/s RX wlan0: 452 kB/s
-TX wlan0: 60 kB/s RX wlan0: 796 kB/s
-TX wlan0: 51 kB/s RX wlan0: 670 kB/s
-TX wlan0: 38 kB/s RX wlan0: 506 kB/s
-TX wlan0: 50 kB/s RX wlan0: 656 kB/s
-TX wlan0: 51 kB/s RX wlan0: 677 kB/s
-TX wlan0: 39 kB/s RX wlan0: 516 kB/s
-TX wlan0: 48 kB/s RX wlan0: 620 kB/s
-TX wlan0: 47 kB/s RX wlan0: 648 kB/s
-TX wlan0: 58 kB/s RX wlan0: 769 kB/s
-TX wlan0: 35 kB/s RX wlan0: 460 kB/s
-TX wlan0: 26 kB/s RX wlan0: 371 kB/s
-TX wlan0: 46 kB/s RX wlan0: 611 kB/s
-TX wlan0: 42 kB/s RX wlan0: 546 kB/s
-TX wlan0: 33 kB/s RX wlan0: 419 kB/s
-TX wlan0: 45 kB/s RX wlan0: 563 kB/s
-TX wlan0: 58 kB/s RX wlan0: 749 kB/s
-TX wlan0: 55 kB/s RX wlan0: 724 kB/s
-TX wlan0: 23 kB/s RX wlan0: 303 kB/s
-TX wlan0: 10 kB/s RX wlan0: 135 kB/s
-TX wlan0: 6 kB/s RX wlan0: 90 kB/s
-TX wlan0: 10 kB/s RX wlan0: 124 kB/s
-TX wlan0: 18 kB/s RX wlan0: 227 kB/s
-TX wlan0: 10 kB/s RX wlan0: 126 kB/s
-TX wlan0: 10 kB/s RX wlan0: 130 kB/s
-TX wlan0: 1 kB/s RX wlan0: 13 kB/s
-TX wlan0: 23 kB/s RX wlan0: 291 kB/s
-TX wlan0: 18 kB/s RX wlan0: 233 kB/s
-TX wlan0: 16 kB/s RX wlan0: 237 kB/s
-TX wlan0: 16 kB/s RX wlan0: 191 kB/s
-TX wlan0: 4 kB/s RX wlan0: 50 kB/s
-TX wlan0: 0 kB/s RX wlan0: 4 kB/s
-TX wlan0: 0 kB/s RX wlan0: 10 kB/s
-TX wlan0: 2 kB/s RX wlan0: 26 kB/s
-TX wlan0: 2 kB/s RX wlan0: 27 kB/s
-TX wlan0: 2 kB/s RX wlan0: 26 kB/s
-TX wlan0: 4 kB/s RX wlan0: 55 kB/s
-TX wlan0: 6 kB/s RX wlan0: 69 kB/s
-TX wlan0: 21 kB/s RX wlan0: 267 kB/s
-TX wlan0: 38 kB/s RX wlan0: 481 kB/s
-TX wlan0: 38 kB/s RX wlan0: 493 kB/s
-TX wlan0: 34 kB/s RX wlan0: 449 kB/s
-TX wlan0: 35 kB/s RX wlan0: 471 kB/s
-TX wlan0: 30 kB/s RX wlan0: 409 kB/s
-TX wlan0: 36 kB/s RX wlan0: 482 kB/s
-TX wlan0: 32 kB/s RX wlan0: 425 kB/s
-TX wlan0: 50 kB/s RX wlan0: 693 kB/s
-TX wlan0: 53 kB/s RX wlan0: 690 kB/s
-TX wlan0: 64 kB/s RX wlan0: 844 kB/s
-TX wlan0: 67 kB/s RX wlan0: 923 kB/s
-TX wlan0: 51 kB/s RX wlan0: 676 kB/s
-TX wlan0: 45 kB/s RX wlan0: 633 kB/s
-TX wlan0: 49 kB/s RX wlan0: 648 kB/s
-TX wlan0: 40 kB/s RX wlan0: 553 kB/s
-TX wlan0: 68 kB/s RX wlan0: 885 kB/s
-TX wlan0: 44 kB/s RX wlan0: 598 kB/s
-TX wlan0: 32 kB/s RX wlan0: 426 kB/s
-TX wlan0: 71 kB/s RX wlan0: 938 kB/s
-TX wlan0: 51 kB/s RX wlan0: 750 kB/s
-TX wlan0: 60 kB/s RX wlan0: 679 kB/s
-TX wlan0: 0 kB/s RX wlan0: 35 kB/s
-TX wlan0: 69 kB/s RX wlan0: 1142 kB/s
-TX wlan0: 43 kB/s RX wlan0: 561 kB/s
-TX wlan0: 70 kB/s RX wlan0: 927 kB/s
-TX wlan0: 70 kB/s RX wlan0: 950 kB/s
-TX wlan0: 44 kB/s RX wlan0: 577 kB/s
-TX wlan0: 56 kB/s RX wlan0: 748 kB/s
-TX wlan0: 73 kB/s RX wlan0: 964 kB/s
-TX wlan0: 77 kB/s RX wlan0: 1000 kB/s
-TX wlan0: 31 kB/s RX wlan0: 412 kB/s
-TX wlan0: 48 kB/s RX wlan0: 641 kB/s
-TX wlan0: 51 kB/s RX wlan0: 700 kB/s
-TX wlan0: 34 kB/s RX wlan0: 417 kB/s
-TX wlan0: 33 kB/s RX wlan0: 403 kB/s
-TX wlan0: 49 kB/s RX wlan0: 612 kB/s
-TX wlan0: 57 kB/s RX wlan0: 753 kB/s
-TX wlan0: 36 kB/s RX wlan0: 450 kB/s
-TX wlan0: 15 kB/s RX wlan0: 241 kB/s
-TX wlan0: 1 kB/s RX wlan0: 25 kB/s
-TX wlan0: 1 kB/s RX wlan0: 27 kB/s
-TX wlan0: 41 kB/s RX wlan0: 564 kB/s
-TX wlan0: 54 kB/s RX wlan0: 724 kB/s
-TX wlan0: 58 kB/s RX wlan0: 769 kB/s
-TX wlan0: 55 kB/s RX wlan0: 756 kB/s
-TX wlan0: 77 kB/s RX wlan0: 1026 kB/s
-TX wlan0: 70 kB/s RX wlan0: 938 kB/s
-TX wlan0: 94 kB/s RX wlan0: 1158 kB/s
-TX wlan0: 68 kB/s RX wlan0: 910 kB/s
-TX wlan0: 79 kB/s RX wlan0: 1080 kB/s
-TX wlan0: 57 kB/s RX wlan0: 765 kB/s
-TX wlan0: 53 kB/s RX wlan0: 697 kB/s
-TX wlan0: 59 kB/s RX wlan0: 833 kB/s
-TX wlan0: 26 kB/s RX wlan0: 344 kB/s
-TX wlan0: 36 kB/s RX wlan0: 472 kB/s
-TX wlan0: 48 kB/s RX wlan0: 631 kB/s
-TX wlan0: 43 kB/s RX wlan0: 580 kB/s
-TX wlan0: 49 kB/s RX wlan0: 652 kB/s
-TX wlan0: 62 kB/s RX wlan0: 852 kB/s
-TX wlan0: 61 kB/s RX wlan0: 777 kB/s
-TX wlan0: 63 kB/s RX wlan0: 838 kB/s
-TX wlan0: 54 kB/s RX wlan0: 664 kB/s
-TX wlan0: 67 kB/s RX wlan0: 902 kB/s
-TX wlan0: 58 kB/s RX wlan0: 734 kB/s
-TX wlan0: 69 kB/s RX wlan0: 851 kB/s
-TX wlan0: 106 kB/s RX wlan0: 1389 kB/s
-TX wlan0: 83 kB/s RX wlan0: 1112 kB/s
-TX wlan0: 64 kB/s RX wlan0: 847 kB/s
-TX wlan0: 93 kB/s RX wlan0: 1268 kB/s
-TX wlan0: 72 kB/s RX wlan0: 969 kB/s
-TX wlan0: 68 kB/s RX wlan0: 913 kB/s
-TX wlan0: 66 kB/s RX wlan0: 956 kB/s
-TX wlan0: 42 kB/s RX wlan0: 580 kB/s
-TX wlan0: 57 kB/s RX wlan0: 743 kB/s
-TX wlan0: 40 kB/s RX wlan0: 565 kB/s
-TX wlan0: 45 kB/s RX wlan0: 587 kB/s
-TX wlan0: 71 kB/s RX wlan0: 933 kB/s
-TX wlan0: 45 kB/s RX wlan0: 601 kB/s
-TX wlan0: 0 kB/s RX wlan0: 10 kB/s
-TX wlan0: 0 kB/s RX wlan0: 10 kB/s
-TX wlan0: 1 kB/s RX wlan0: 21 kB/s
-TX wlan0: 26 kB/s RX wlan0: 304 kB/s
-TX wlan0: 69 kB/s RX wlan0: 829 kB/s
-TX wlan0: 76 kB/s RX wlan0: 1022 kB/s
-TX wlan0: 53 kB/s RX wlan0: 692 kB/s
-TX wlan0: 53 kB/s RX wlan0: 703 kB/s
-TX wlan0: 66 kB/s RX wlan0: 869 kB/s
-TX wlan0: 54 kB/s RX wlan0: 680 kB/s
-TX wlan0: 46 kB/s RX wlan0: 607 kB/s
-TX wlan0: 54 kB/s RX wlan0: 657 kB/s
-TX wlan0: 40 kB/s RX wlan0: 521 kB/s
-TX wlan0: 0 kB/s RX wlan0: 11 kB/s
-TX wlan0: 1 kB/s RX wlan0: 15 kB/s
-TX wlan0: 15 kB/s RX wlan0: 255 kB/s
-TX wlan0: 41 kB/s RX wlan0: 522 kB/s
-TX wlan0: 44 kB/s RX wlan0: 568 kB/s
-TX wlan0: 48 kB/s RX wlan0: 700 kB/s
-TX wlan0: 51 kB/s RX wlan0: 725 kB/s
-TX wlan0: 82 kB/s RX wlan0: 1096 kB/s
-TX wlan0: 59 kB/s RX wlan0: 790 kB/s
-TX wlan0: 43 kB/s RX wlan0: 554 kB/s
-TX wlan0: 52 kB/s RX wlan0: 681 kB/s
-TX wlan0: 48 kB/s RX wlan0: 641 kB/s
-TX wlan0: 54 kB/s RX wlan0: 702 kB/s
-TX wlan0: 36 kB/s RX wlan0: 499 kB/s
-TX wlan0: 50 kB/s RX wlan0: 639 kB/s
-TX wlan0: 41 kB/s RX wlan0: 520 kB/s
-TX wlan0: 37 kB/s RX wlan0: 474 kB/s
-TX wlan0: 75 kB/s RX wlan0: 975 kB/s
-TX wlan0: 48 kB/s RX wlan0: 636 kB/s
-TX wlan0: 64 kB/s RX wlan0: 868 kB/s
-TX wlan0: 49 kB/s RX wlan0: 617 kB/s
-TX wlan0: 50 kB/s RX wlan0: 669 kB/s
-TX wlan0: 59 kB/s RX wlan0: 754 kB/s
-TX wlan0: 33 kB/s RX wlan0: 443 kB/s
-TX wlan0: 30 kB/s RX wlan0: 378 kB/s
-TX wlan0: 31 kB/s RX wlan0: 435 kB/s
-TX wlan0: 5 kB/s RX wlan0: 84 kB/s
-TX wlan0: 1 kB/s RX wlan0: 11 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
-TX wlan0: 0 kB/s RX wlan0: 0 kB/s
+182
+460
+597
+572
+639
+583
+1013
+424
+636
+822
+665
+541
+662
+646
+537
+756
+668
+820
+148
+13
+13
+454
+649
+492
+690
+661
+551
+473
+559
+855
+612
+633
+1018
+849
+827
+267
+0
+50
+0
+0
+0
+0
+670
+886
+961
+1126
+784
+890
+445
+455
+307
+677
+554
+735
+992
+842
+997
+727
+884
+457
+891
+921
+678
+885
+1154
+819
+1043
+996
+886
+936
+685
+717
+879
+680
+981
+791
+541
+785
+582
+319
+454
+352
+533
+349
+538
+515
+757
+307
+465
+346
+668
+367
+339
+413
+527
+768
+780
+822
+925
+559
+1090
+616
+903
+679
+1034
+745
+468
+684
+953
+651
+482
+1068
+391
+636
+743
+337
+375
+663
+662
+600
+490
+770
+523
+785
+585
+616
+670
+1186
+841
+1128
+917
+983
+628
+747
+697
+683
+871
+917
+1083
+1149
+675
+602
+654
+866
+892
+551
+539
+665
+590
+807
+825
+824
+568
+718
+734
+795
+654
+855
+820
+909
+709
+959
+917
+868
+819
+968
+574
+445
+542
+541
+656
+649
+556
+325
+777
+768
+1124
+794
+842
+1023
+707
+1007
+1107
+695
+1050
+1100
+912
+781
+905
+686
+529
+779
+789
+851
+1067
+755
+512
+355
+288
+338
+133
+780
+440
+525
+223
+596
+662
+397
+800
+630
+444
+891
+462
+949
+502
+806
+731
+687
+673
+608
+834
+988
+921
+522
+786
+431
+549
+74
+0
+0
+542
+639
+380
+202
+21
+938
+809
+743
+1017
+563
+538
+320
+828
+424
+540
+468
+557
+759
+633
+680
+479
+591
+540
+550
+570
+800
+572
+528
+702
+627
+270
+589
+895
+1018
+877
+761
+741
+948
+422
+582
+546
+305
+14
+303
+859
+830
+937
+827
+716
+603
+593
+897
+750
+946
+629
+463
+560
+500
+514
+817
+774
+749
+717
+673
+764
+359
+765
+581
+646
+520
+538
+537
+645
+640
+523
+327
+10
+465
+806
+462
+1048
+545
+577
+400
+155
+504
+532
+425
+329
+310
+744
+394
+481
+793
+749
+387
+268
+311
+785
+359
+428
+484
+598
+526
+408
+588
+765
+481
+374
+572
+559
+661
+743
+265
+603
+572
+574
+473
+440
+531
+487
+590
+350
+622
+502
+487
+730
+499
+289
+975
+616
+598
+569
+1057
+932
+735
+452
+0
+0
+0
+188
+444
+212
+24
+246
+512
+418
+903
+589
+811
+624
+881
+454
+817
+384
+372
+472
+698
+757
+765
+815
+362
+715
+406
+542
+750
+540
+708
+899
+614
+770
+823
+839
+601
+548
+747
+207
+487
+726
+644
+836
+400
+890
+534
+597
+539
+484
+710
+1025
+792
+619
+388
+306
+449
+367
+343
+299
+644
+641
+631
+739
+634
+682
+676
+400
+610
+791
+728
+582
+381
+499
+897
+802
+588
+272
+473
+598
+593
+666
+669
+850
+677
+505
+723
+625
+159
+825
+733
+665
+619
+528
+516
+306
+380
+686
+660
+399
+111
+4
+0
+0
+15
+550
+615
+646
+502
+906
+437
+553
+570
+465
+463
+558
+309
+159
+721
+615
+486
+538
+617
+710
+514
+1097
+452
+796
+670
+506
+656
+677
+516
+620
+648
+769
+460
+371
+611
+546
+419
+563
+749
+724
+303
+135
+90
+124
+227
+126
+130
+13
+291
+233
+237
+191
+50
+4
+10
+26
+27
+26
+55
+69
+267
+481
+493
+449
+471
+409
+482
+425
+693
+690
+844
+923
+676
+633
+648
+553
+885
+598
+426
+938
+750
+679
+35
+1142
+561
+927
+950
+577
+748
+964
+1000
+412
+641
+700
+417
+403
+612
+753
+450
+241
+25
+27
+564
+724
+769
+756
+1026
+938
+1158
+910
+1080
+765
+697
+833
+344
+472
+631
+580
+652
+852
+777
+838
+664
+902
+734
+851
+1389
+1112
+847
+1268
+969
+913
+956
+580
+743
+565
+587
+933
+601
+10
+10
+21
+304
+829
+1022
+692
+703
+869
+680
+607
+657
+521
+11
+15
+255
+522
+568
+700
+725
+1096
+790
+554
+681
+641
+702
+499
+639
+520
+474
+975
+636
+868
+617
+669
+754
+443
+378
+435
+84
+11
+0
+0

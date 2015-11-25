@@ -1,0 +1,12 @@
+gnuplot plot_mptcp_diff_sub_flows.plt
+gnuplot plot_mptcp_tcp_ethr_only.plt
+gnuplot plot_mptcp_tcp_flows.plt
+gnuplot plot_mptcp_tcp_sum_and_individual_balia.plt
+gnuplot plot_mptcp_tcp_sum_and_individual_cubic.plt
+gnuplot plot_mptcp_tcp_sum_and_individual_lia.plt
+gnuplot plot_mptcp_tcp_sum_and_individual_olia.plt
+gnuplot plot_mptcp_tcp_sum_and_individual_wvegas.plt
+gnuplot plot_mptcp_tcp_wifi_only.plt
+gnuplot plot_udp_mptcp_20_sub_flows.plt
+gnuplot plot_udp_mptcp_2_sub_flows_on_ethr.plt
+gnuplot plot_udp_mptcp_2_sub_flows.plt
