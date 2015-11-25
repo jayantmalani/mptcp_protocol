@@ -1,8 +1,41 @@
-  wget -q -O - http://multipath-tcp.org/mptcp.gpg.key | sudo apt-key add -
-gvim /etc/apt/sources.list.d/mptcp.list
-Add 
+To install MPTCP for first time :
+>   wget -q -O - http://multipath-tcp.org/mptcp.gpg.key | sudo apt-key add - 
+# add a new software repository in the new file /etc/apt/sources.list.d/mptcp.list with the following line
+ deb http://multipath-tcp.org/repos/apt/debian trusty main
+> sudo apt-get update
+> sudo apt-get install linux-mptcp
 
+Configure Routing :
+# Place two scripts available in script folder at below location and execute them
+> /etc/network/if-up.d/mptcp_up
+> /etc/network/if-post-down.d/mptcp_down
 
-To check OS release : 
-cat /etc/os-release
+Configure MPTCP :
+# Verify version of MPTCP
+> dmesg | grep MPTCP
+
+# Call below command to configure different properties of mptcp like enable/disable, path manager, scheduler etc..
+> sysctl -w net.mptcp.[name of the variable]=[value]
+
+# Configure congestion control through 
+>  sysctl net.ipv4.tcp_congestion_control=[name]
+
+# Configure no of flows through below command
+>  echo <sub flows> > /sys/module/mptcp_fullmesh/parameters/num_subflows
+
+# You may need to disable ipv6 also
+
+Git Commands : 
+Example 
+> git config --global user.name "Jayant Malani"
+> git config --global user.email "jayantmalani91@gmail.com"
+
+#If configuring for first time or someone else have pushed some code
+> git remote add origin https://github.com/ucsdcse222a/group21 
+> git branch --set-upstream-to=origin master
+> git pull remote origin master
+
+> git add <files>
+> git commit -m "messages"
+> git push origin master 
 
