@@ -1,0 +1,3 @@
+Project : MPTCP hardware validation
+Project aims at validating the MPTCP protocol design goals and conduct further analysis with TCP and UDP traffic on hardware framework.
+Team members : Agneev Ghosh, Jayant Malani, Heli Modi 

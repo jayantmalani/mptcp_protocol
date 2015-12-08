@@ -7,8 +7,8 @@ To install MPTCP for first time :
 
 Configure Routing :
 # Place two scripts available in script folder at below location and execute them
-> /etc/network/if-up.d/mptcp_up
-> /etc/network/if-post-down.d/mptcp_down
+/etc/network/if-up.d/mptcp_up
+/etc/network/if-post-down.d/mptcp_down
 
 Configure MPTCP :
 # Verify version of MPTCP
@@ -18,7 +18,7 @@ Configure MPTCP :
 > sysctl -w net.mptcp.[name of the variable]=[value]
 
 # Configure congestion control through 
->  sysctl net.ipv4.tcp_congestion_control=[name]
+>  sysctl -w net.ipv4.tcp_congestion_control=[name]
 
 # Configure no of flows through below command
 >  echo <sub flows> > /sys/module/mptcp_fullmesh/parameters/num_subflows

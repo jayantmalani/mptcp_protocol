@@ -9900,3 +9900,5249 @@ FIT:    data read from 'mptcp_on_w_e_wifi_olia_brk.txt'
         residuals are weighted equally (unit weight)
 
 function used for fitting: f(x)
+
+
+*******************************************************************************
+Tue Dec  1 20:52:25 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_ethr_olia.txt'
+        format = z
+        #datapoints = 112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.01673e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.34962e+08
+rel. change during last iteration : -1.39669e-11
+
+degrees of freedom    (FIT_NDF)                        : 111
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1979.54
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.91858e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9322.79          +/- 187          (2.006%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:52:25 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_wifi_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.77547e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.72934e+06
+rel. change during last iteration : -5.4974e-12
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 182.476
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33297.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 549.735          +/- 17.17        (3.123%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:52:25 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 117
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.89241e+08
+rel. change during last iteration : -6.22093e-12
+
+degrees of freedom    (FIT_NDF)                        : 116
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2768.73
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.66587e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 9494.83          +/- 256          (2.696%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:52:25 2015
+
+
+FIT:    data read from 'tcp_on_ethernet.txt'
+        format = z
+        #datapoints = 89
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23561e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.25766e+08
+rel. change during last iteration : -1.51536e-10
+
+degrees of freedom    (FIT_NDF)                        : 88
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1195.47
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.42916e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 11723.6          +/- 126.7        (1.081%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:52:44 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_ethr_olia.txt'
+        format = z
+        #datapoints = 112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.01673e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.34962e+08
+rel. change during last iteration : -1.39669e-11
+
+degrees of freedom    (FIT_NDF)                        : 111
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1979.54
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.91858e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9322.79          +/- 187          (2.006%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:52:44 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_wifi_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.77547e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.72934e+06
+rel. change during last iteration : -5.4974e-12
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 182.476
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33297.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 549.735          +/- 17.17        (3.123%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:52:44 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 117
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.89241e+08
+rel. change during last iteration : -6.22093e-12
+
+degrees of freedom    (FIT_NDF)                        : 116
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2768.73
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.66587e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 9494.83          +/- 256          (2.696%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:52:44 2015
+
+
+FIT:    data read from 'tcp_on_ethernet.txt'
+        format = z
+        #datapoints = 89
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23561e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.25766e+08
+rel. change during last iteration : -1.51536e-10
+
+degrees of freedom    (FIT_NDF)                        : 88
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1195.47
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.42916e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 11723.6          +/- 126.7        (1.081%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:54:36 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_ethr_olia.txt'
+        format = z
+        #datapoints = 112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.01673e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.34962e+08
+rel. change during last iteration : -1.39669e-11
+
+degrees of freedom    (FIT_NDF)                        : 111
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1979.54
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.91858e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9322.79          +/- 187          (2.006%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:54:36 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_wifi_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.77547e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.72934e+06
+rel. change during last iteration : -5.4974e-12
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 182.476
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33297.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 549.735          +/- 17.17        (3.123%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:54:36 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 117
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.89241e+08
+rel. change during last iteration : -6.22093e-12
+
+degrees of freedom    (FIT_NDF)                        : 116
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2768.73
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.66587e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 9494.83          +/- 256          (2.696%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:54:36 2015
+
+
+FIT:    data read from 'tcp_on_ethernet.txt'
+        format = z
+        #datapoints = 89
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23561e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.25766e+08
+rel. change during last iteration : -1.51536e-10
+
+degrees of freedom    (FIT_NDF)                        : 88
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1195.47
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.42916e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 11723.6          +/- 126.7        (1.081%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:00 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_ethr_olia.txt'
+        format = z
+        #datapoints = 112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.01673e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.34962e+08
+rel. change during last iteration : -1.39669e-11
+
+degrees of freedom    (FIT_NDF)                        : 111
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1979.54
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.91858e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9322.79          +/- 187          (2.006%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:00 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_wifi_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.77547e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.72934e+06
+rel. change during last iteration : -5.4974e-12
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 182.476
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33297.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 549.735          +/- 17.17        (3.123%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:00 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 117
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.89241e+08
+rel. change during last iteration : -6.22093e-12
+
+degrees of freedom    (FIT_NDF)                        : 116
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2768.73
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.66587e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 9494.83          +/- 256          (2.696%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:00 2015
+
+
+FIT:    data read from 'tcp_on_ethernet.txt'
+        format = z
+        #datapoints = 89
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23561e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.25766e+08
+rel. change during last iteration : -1.51536e-10
+
+degrees of freedom    (FIT_NDF)                        : 88
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1195.47
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.42916e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 11723.6          +/- 126.7        (1.081%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:54 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_ethr_olia.txt'
+        format = z
+        #datapoints = 112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.01673e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.34962e+08
+rel. change during last iteration : -1.39669e-11
+
+degrees of freedom    (FIT_NDF)                        : 111
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1979.54
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.91858e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9322.79          +/- 187          (2.006%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:54 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_wifi_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.77547e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.72934e+06
+rel. change during last iteration : -5.4974e-12
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 182.476
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33297.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 549.735          +/- 17.17        (3.123%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:54 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 117
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.89241e+08
+rel. change during last iteration : -6.22093e-12
+
+degrees of freedom    (FIT_NDF)                        : 116
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2768.73
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.66587e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 9494.83          +/- 256          (2.696%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:55:54 2015
+
+
+FIT:    data read from 'tcp_on_ethernet.txt'
+        format = z
+        #datapoints = 89
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23561e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.25766e+08
+rel. change during last iteration : -1.51536e-10
+
+degrees of freedom    (FIT_NDF)                        : 88
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1195.47
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.42916e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 11723.6          +/- 126.7        (1.081%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:56:42 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_ethr_olia.txt'
+        format = z
+        #datapoints = 112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.01673e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.34962e+08
+rel. change during last iteration : -1.39669e-11
+
+degrees of freedom    (FIT_NDF)                        : 111
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1979.54
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.91858e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9322.79          +/- 187          (2.006%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:56:42 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_wifi_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.77547e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.72934e+06
+rel. change during last iteration : -5.4974e-12
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 182.476
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33297.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 549.735          +/- 17.17        (3.123%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:56:42 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 117
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.89241e+08
+rel. change during last iteration : -6.22093e-12
+
+degrees of freedom    (FIT_NDF)                        : 116
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2768.73
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.66587e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 9494.83          +/- 256          (2.696%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:56:42 2015
+
+
+FIT:    data read from 'tcp_on_ethernet.txt'
+        format = z
+        #datapoints = 89
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23561e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.25766e+08
+rel. change during last iteration : -1.51536e-10
+
+degrees of freedom    (FIT_NDF)                        : 88
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1195.47
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.42916e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 11723.6          +/- 126.7        (1.081%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:57:56 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_ethr_olia.txt'
+        format = z
+        #datapoints = 112
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.01673e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.34962e+08
+rel. change during last iteration : -1.39669e-11
+
+degrees of freedom    (FIT_NDF)                        : 111
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1979.54
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.91858e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9322.79          +/- 187          (2.006%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:57:56 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_wifi_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.77547e+07       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.72934e+06
+rel. change during last iteration : -5.4974e-12
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 182.476
+variance of residuals (reduced chisquare) = WSSR/ndf   : 33297.6
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 549.735          +/- 17.17        (3.123%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:57:56 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 20:57:56 2015
+
+
+FIT:    data read from 'tcp_on_ethernet.txt'
+        format = z
+        #datapoints = 89
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23561e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.25766e+08
+rel. change during last iteration : -1.51536e-10
+
+degrees of freedom    (FIT_NDF)                        : 88
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1195.47
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.42916e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 11723.6          +/- 126.7        (1.081%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:16 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:16 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:16 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 159
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.65065e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.75636e+09
+rel. change during last iteration : -6.93391e-13
+
+degrees of freedom    (FIT_NDF)                        : 158
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3334.09
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11162e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 7047.25          +/- 264.4        (3.752%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:16 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 119
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.08712e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.15569e+08
+rel. change during last iteration : -1.23365e-11
+
+degrees of freedom    (FIT_NDF)                        : 118
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1876.64
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.52177e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9374.51          +/- 172          (1.835%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:16 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 340
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.5468e+08        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.5375e+07
+rel. change during last iteration : -3.81549e-14
+
+degrees of freedom    (FIT_NDF)                        : 339
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 471.535
+variance of residuals (reduced chisquare) = WSSR/ndf   : 222345
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1057.22          +/- 25.57        (2.419%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:29 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:29 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:29 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 159
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.65065e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.75636e+09
+rel. change during last iteration : -6.93391e-13
+
+degrees of freedom    (FIT_NDF)                        : 158
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3334.09
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11162e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 7047.25          +/- 264.4        (3.752%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:29 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 119
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.08712e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.15569e+08
+rel. change during last iteration : -1.23365e-11
+
+degrees of freedom    (FIT_NDF)                        : 118
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1876.64
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.52177e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9374.51          +/- 172          (1.835%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:16:29 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 340
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.5468e+08        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.5375e+07
+rel. change during last iteration : -3.81549e-14
+
+degrees of freedom    (FIT_NDF)                        : 339
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 471.535
+variance of residuals (reduced chisquare) = WSSR/ndf   : 222345
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1057.22          +/- 25.57        (2.419%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:19:12 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:19:12 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:19:12 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.35652e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.20284e+09
+rel. change during last iteration : -3.25348e-12
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3468.19
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.20284e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 6413.92          +/- 345.1        (5.38%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:19:12 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.19078e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.82037e+08
+rel. change during last iteration : -2.17213e-11
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1954.58
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.82037e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9339.91          +/- 194.5        (2.082%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:19:12 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 100
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85735e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.1041e+07
+rel. change during last iteration : -3.45562e-12
+
+degrees of freedom    (FIT_NDF)                        : 99
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 643.86
+variance of residuals (reduced chisquare) = WSSR/ndf   : 414555
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1203.89          +/- 64.39        (5.348%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:21:19 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:21:19 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:21:19 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.35652e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.20284e+09
+rel. change during last iteration : -3.25348e-12
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3468.19
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.20284e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 6413.92          +/- 345.1        (5.38%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:21:19 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.19078e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.82037e+08
+rel. change during last iteration : -2.17213e-11
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1954.58
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.82037e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9339.91          +/- 194.5        (2.082%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Tue Dec  1 21:21:19 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 100
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85735e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.1041e+07
+rel. change during last iteration : -3.45562e-12
+
+degrees of freedom    (FIT_NDF)                        : 99
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 643.86
+variance of residuals (reduced chisquare) = WSSR/ndf   : 414555
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1203.89          +/- 64.39        (5.348%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:02:53 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:02:53 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:03:27 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:03:27 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:04:03 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:04:03 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:13:57 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:13:57 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:14:21 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:14:21 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:14:36 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:14:36 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:14:55 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:14:55 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:16:11 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:16:11 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:16:33 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:16:33 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:17:08 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:17:08 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:17:35 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:17:35 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.46624e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.45379e+09
+rel. change during last iteration : -5.9351e-13
+
+degrees of freedom    (FIT_NDF)                        : 161
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3004.95
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.02973e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 6093.12          +/- 236.1        (3.875%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:18:29 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:18:29 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 126
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.82595e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.03268e+08
+rel. change during last iteration : -1.02948e-11
+
+degrees of freedom    (FIT_NDF)                        : 125
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 908.926
+variance of residuals (reduced chisquare) = WSSR/ndf   : 826147
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 4649.51          +/- 80.97        (1.742%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:18:49 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:18:49 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 126
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.82595e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.03268e+08
+rel. change during last iteration : -1.02948e-11
+
+degrees of freedom    (FIT_NDF)                        : 125
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 908.926
+variance of residuals (reduced chisquare) = WSSR/ndf   : 826147
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 4649.51          +/- 80.97        (1.742%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:19:20 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:19:20 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 126
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.82595e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.03268e+08
+rel. change during last iteration : -1.02948e-11
+
+degrees of freedom    (FIT_NDF)                        : 125
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 908.926
+variance of residuals (reduced chisquare) = WSSR/ndf   : 826147
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 4649.51          +/- 80.97        (1.742%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:24:03 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:24:03 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:24:03 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:10 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:10 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:10 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:38 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:38 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:38 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:54 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:54 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:25:54 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:26:56 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:26:56 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:26:56 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:27:09 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:27:09 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:27:09 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:27:18 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:27:18 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:27:18 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:01 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:01 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:01 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.35652e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.20284e+09
+rel. change during last iteration : -3.25348e-12
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3468.19
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.20284e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 6413.92          +/- 345.1        (5.38%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:01 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.19078e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.82037e+08
+rel. change during last iteration : -2.17213e-11
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1954.58
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.82037e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9339.91          +/- 194.5        (2.082%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:01 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 100
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85735e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.1041e+07
+rel. change during last iteration : -3.45562e-12
+
+degrees of freedom    (FIT_NDF)                        : 99
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 643.86
+variance of residuals (reduced chisquare) = WSSR/ndf   : 414555
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1203.89          +/- 64.39        (5.348%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:50 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:50 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:50 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.35652e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.20284e+09
+rel. change during last iteration : -3.25348e-12
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3468.19
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.20284e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 6413.92          +/- 345.1        (5.38%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:50 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.19078e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.82037e+08
+rel. change during last iteration : -2.17213e-11
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1954.58
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.82037e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9339.91          +/- 194.5        (2.082%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:31:50 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 100
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85735e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.1041e+07
+rel. change during last iteration : -3.45562e-12
+
+degrees of freedom    (FIT_NDF)                        : 99
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 643.86
+variance of residuals (reduced chisquare) = WSSR/ndf   : 414555
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1203.89          +/- 64.39        (5.348%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:32:13 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:32:13 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:32:13 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.35652e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.20284e+09
+rel. change during last iteration : -3.25348e-12
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3468.19
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.20284e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 6413.92          +/- 345.1        (5.38%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:32:13 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.19078e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.82037e+08
+rel. change during last iteration : -2.17213e-11
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1954.58
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.82037e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9339.91          +/- 194.5        (2.082%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:32:13 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 100
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85735e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.1041e+07
+rel. change during last iteration : -3.45562e-12
+
+degrees of freedom    (FIT_NDF)                        : 99
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 643.86
+variance of residuals (reduced chisquare) = WSSR/ndf   : 414555
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1203.89          +/- 64.39        (5.348%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:55:32 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_mptcp_sum.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.57014e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.77223e+08
+rel. change during last iteration : -1.73662e-11
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1181.29
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.39546e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 8098.51          +/- 104.4        (1.289%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:55:32 2015
+
+
+FIT:    data read from 'mptcp_udp_on_both_udp.txt'
+        format = z
+        #datapoints = 126
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.82595e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.03268e+08
+rel. change during last iteration : -1.02948e-11
+
+degrees of freedom    (FIT_NDF)                        : 125
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 908.926
+variance of residuals (reduced chisquare) = WSSR/ndf   : 826147
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 4649.51          +/- 80.97        (1.742%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:56:24 2015
+
+
+FIT:    data read from 'mptcp_5_flows_1_conn.txt'
+        format = z
+        #datapoints = 91
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.30633e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.23129e+08
+rel. change during last iteration : -1.49909e-10
+
+degrees of freedom    (FIT_NDF)                        : 90
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1169.66
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.3681e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 11925.8          +/- 122.6        (1.028%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:56:24 2015
+
+
+FIT:    data read from 'tcp_5_independent_conn.txt'
+        format = z
+        #datapoints = 442
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.48968e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.4221e+08
+rel. change during last iteration : -6.94704e-13
+
+degrees of freedom    (FIT_NDF)                        : 441
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 741.099
+variance of residuals (reduced chisquare) = WSSR/ndf   : 549228
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 12095.5          +/- 35.25        (0.2914%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:56:24 2015
+
+
+FIT:    data read from 'mptcp_10_flows_5_conn_sum.txt'
+        format = z
+        #datapoints = 433
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 6.81838e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.14404e+08
+rel. change during last iteration : -1.68465e-12
+
+degrees of freedom    (FIT_NDF)                        : 432
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 514.612
+variance of residuals (reduced chisquare) = WSSR/ndf   : 264825
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 12539.1          +/- 24.73        (0.1972%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:57:05 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_olia.txt'
+        format = z
+        #datapoints = 113
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.14348e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_1          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.15869e+08
+rel. change during last iteration : -1.27526e-11
+
+degrees of freedom    (FIT_NDF)                        : 112
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2146.15
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60597e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_1          = 9830.93          +/- 201.9        (2.054%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_1 
+mean_1          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:57:05 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_lia.txt'
+        format = z
+        #datapoints = 107
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.23318e+10       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_2          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.89637e+08
+rel. change during last iteration : -1.09444e-11
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2729.36
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.44941e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_2          = 10387.1          +/- 263.9        (2.54%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_2 
+mean_2          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:57:05 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_balia.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.35652e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_3          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.20284e+09
+rel. change during last iteration : -3.25348e-12
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3468.19
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.20284e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_3          = 6413.92          +/- 345.1        (5.38%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_3 
+mean_3          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:57:05 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_wvegas.txt'
+        format = z
+        #datapoints = 101
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.19078e+09       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_4          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.82037e+08
+rel. change during last iteration : -2.17213e-11
+
+degrees of freedom    (FIT_NDF)                        : 100
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1954.58
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.82037e+06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_4          = 9339.91          +/- 194.5        (2.082%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_4 
+mean_4          1.000 
+
+
+*******************************************************************************
+Fri Dec  4 17:57:05 2015
+
+
+FIT:    data read from 'mptcp_on_w_e_sum_cubic.txt'
+        format = z
+        #datapoints = 100
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.85735e+08       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_5          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.1041e+07
+rel. change during last iteration : -3.45562e-12
+
+degrees of freedom    (FIT_NDF)                        : 99
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 643.86
+variance of residuals (reduced chisquare) = WSSR/ndf   : 414555
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_5          = 1203.89          +/- 64.39        (5.348%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_5 
+mean_5          1.000 
